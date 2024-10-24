@@ -38,10 +38,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/apoterenko/ngx-post-message.git"
+    "url": "https://github.com/alxptr/ngx-post-message.git"
   },
   "bugs": {
-    "url": "https://github.com/apoterenko/ngx-post-message/issues"
+    "url": "https://github.com/alxptr/ngx-post-message/issues"
   },
   "module": "ngx-post-message.js",
   "typings": "ngx-post-message.d.ts",
